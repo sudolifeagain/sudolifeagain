@@ -4,3 +4,4 @@
 - 📫 How to reach me : DM to [re4rity (@re4l_ity) / X](https://x.com/re4l_ity)
 - 😄 Pronouns: "reality"
 - 🗣️ Language:Japanese (as a mother tongue), English
+  - CEFR : B2
