@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/de47fdce-05a9-49e4-91f6-b8e2b02b54d7.svg)](https://wakatime.com/@de47fdce-05a9-49e4-91f6-b8e2b02b54d7)
+
 - 👋 Hi, I’m @sudolifeagain
 - 👀 I’m interested in building my own blog on my personal domain.
 - 🌱 I’m currently learning Javascript and React
