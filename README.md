@@ -7,3 +7,8 @@
 - 😄 Pronouns: "reality"
 - 🗣️ Language:Japanese (as a mother tongue), English
   - CEFR : B2
+  - 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
