@@ -9,6 +9,12 @@
   - CEFR : B2
   - 
 <!--START_SECTION:waka-->
+
+```txt
+C      31 mins         █████████████████████░░░░   83.91 %
+Bash   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+```
+
 <!--END_SECTION:waka-->
 
 
