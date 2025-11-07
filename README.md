@@ -31,5 +31,4 @@ Bash   5 mins          ████░░░░░░░░░░░░░░░
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudolifeagain&theme=dark)](https://git.io/streak-stats)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sudolifeagain&theme=radical)
-
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudolifeagain&theme=radical)
