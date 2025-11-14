@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 13 November 2025
+From: 07 November 2025 - To: 14 November 2025
 
-Markdown          6 hrs 58 mins   ████████████▓░░░░░░░░░░░░   50.10 %
-C                 1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-Batchfile         1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-PowerShell        1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-YAML              40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Markdown          6 hrs 40 mins   █████████████▒░░░░░░░░░░░   53.81 %
+Batchfile         1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+PowerShell        1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+YAML              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Bash              29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
