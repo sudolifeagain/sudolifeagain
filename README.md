@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Markdown     3 hrs 28 mins   ███████████░░░░░░░░░░░░░░   43.87 %
-Python       1 hr 42 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
-C            54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-YAML         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-JavaScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Markdown     3 hrs 29 mins   ███████████▓░░░░░░░░░░░░░   46.16 %
+Python       1 hr 39 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+C            57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+YAML         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
