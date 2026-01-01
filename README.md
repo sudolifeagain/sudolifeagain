@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Markdown     8 hrs 31 mins   ███████████░░░░░░░░░░░░░░   43.47 %
-TypeScript   4 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.34 %
-YAML         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-JavaScript   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-Go           1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Markdown     8 hrs 37 mins   ███████████▓░░░░░░░░░░░░░   46.52 %
+TypeScript   3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+YAML         1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JavaScript   1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Go           1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 ```
 
 <!--END_SECTION:waka-->
