@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 12 January 2026 - To: 19 January 2026
 
-Markdown     9 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   46.68 %
-Go           3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Text         2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-TypeScript   1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Bash         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Markdown     5 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.41 %
+Go           4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.18 %
+TypeScript   2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Text         2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Bash         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
