@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2026 - To: 22 June 2026
+From: 16 June 2026 - To: 23 June 2026
 
-TypeScript   12 hrs 10 mins        █████████▓░░░░░░░░░░░░░░░   38.38 %
-Markdown     8 hrs 13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-Python       2 hrs 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-JavaScript   1 hr 43 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Terraform    1 hr 33 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+TypeScript   8 hrs 20 mins         ██████████▓░░░░░░░░░░░░░░   42.46 %
+Markdown     4 hrs 34 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+Python       1 hr 14 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Terraform    1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Other        59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
