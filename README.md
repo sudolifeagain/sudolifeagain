@@ -13,13 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2026 - To: 27 June 2026
+From: 21 June 2026 - To: 28 June 2026
 
-Terraform    28 mins               ██████████░░░░░░░░░░░░░░░   39.95 %
-Other        16 mins               ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-Markdown     13 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-Bash         6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-YAML         4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
