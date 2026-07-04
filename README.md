@@ -1,3 +1,13 @@
+## test section
+
+![CloudTime heatmap](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/YOUR_USERNAME/cards/heatmap.svg?theme=default)
+![CloudTime summary](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/YOUR_USERNAME/cards/summary.svg?theme=default)
+![CloudTime languages](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/YOUR_USERNAME/cards/languages.svg?theme=default)
+![CloudTime streak](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/YOUR_USERNAME/cards/streak.svg?theme=default)
+
+---
+
+
 [![wakatime](https://wakatime.com/badge/user/de47fdce-05a9-49e4-91f6-b8e2b02b54d7.svg)](https://wakatime.com/@de47fdce-05a9-49e4-91f6-b8e2b02b54d7)
 
 - 👋 Hi, I’m @sudolifeagain
