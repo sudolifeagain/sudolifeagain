@@ -1,42 +1,26 @@
-## test section
+## CloudTime Activity
 
-![CloudTime heatmap](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain_cf62e64a/cards/heatmap.svg?theme=default)
-![CloudTime summary](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain_cf62e64a/cards/summary.svg?theme=default)
-![CloudTime languages](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain_cf62e64a/cards/languages.svg?theme=default)
-![CloudTime streak](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain_cf62e64a/cards/streak.svg?theme=default)
+![CloudTime heatmap](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain/cards/heatmap.svg?theme=default&v=20260705b)
+![CloudTime summary](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain/cards/summary.svg?theme=default&range=last_7_days&v=20260705b)
+![CloudTime languages](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain/cards/languages.svg?theme=default&range=last_7_days&v=20260705b)
+![CloudTime streak](https://cloudtime.nagahama-91b.workers.dev/api/v1/users/sudolifeagain/cards/streak.svg?theme=default&range=last_7_days&v=20260705b)
 
 ---
-
-
-[![wakatime](https://wakatime.com/badge/user/de47fdce-05a9-49e4-91f6-b8e2b02b54d7.svg)](https://wakatime.com/@de47fdce-05a9-49e4-91f6-b8e2b02b54d7)
 
 - 👋 Hi, I’m @sudolifeagain
 - 👀 I’m interested in building my own blog on my personal domain.
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me : DM to [re4rity (@re4l_ity) / X](https://x.com/re4l_ity)
 - 😄 Pronouns: "lia"
-- 🗣️ Language:Japanese (as a mother tongue), English
-  - CEFR : B2
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 26 June 2026 - To: 03 July 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
+- 🗣️ Language: Japanese (as a mother tongue), English
+  - CEFR: B2
 
 ## 💻 Tech Stack & Tools
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudolifeagain&theme=merko)](https://git.io/streak-stats)
+## 🔥 GitHub Streak Stats
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudolifeagain&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudolifeagain&theme=merko)](https://git.io/streak-stats)
